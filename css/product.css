@@ -1,0 +1,22 @@
+.product-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: stretch;
+    align-items: flex-start;
+
+    margin-top: 70px;
+}
+
+.description-container{
+    width: 37rem;
+}
+
+button{
+    border-radius: 7px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-weight:;
+    font-size: 15px;
+    width: 6.5rem;
+    height: 2rem;
+}
